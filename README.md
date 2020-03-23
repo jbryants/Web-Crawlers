@@ -1,2 +1,1 @@
-# Web-Crawlers
-All web scraping and web crawling projects.
+Web scraping and web crawling projects.
